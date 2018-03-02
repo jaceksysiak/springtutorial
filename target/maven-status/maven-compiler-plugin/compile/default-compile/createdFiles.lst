@@ -1,7 +1,0 @@
-com\caveofprogramming\spring\web\controllers\OffersController.class
-com\caveofprogramming\spring\web\service\OffersService.class
-com\caveofprogramming\spring\web\dao\Offer.class
-com\caveofprogramming\spring\web\dao\OffersDAO.class
-com\caveofprogramming\spring\web\dao\OffersDAO$2.class
-com\caveofprogramming\spring\web\dao\OffersDAO$1.class
-com\caveofprogramming\spring\web\controllers\HomeController.class
