@@ -31,13 +31,13 @@
     -->
 	
 	
-	   <!--
+	   
 		    <Resource name="jdbc/spring" auth="Container" type="javax.sql.DataSource"
                maxActive="100" maxIdle="30" maxWait="10000"
                username="root" password="Warszawa5584" driverClassName="com.mysql.jdbc.Driver"
                url="jdbc:mysql://mysql:3306/springtutorial"/>
                   
-	      
+	       <!--
 	   	    <Resource name="jdbc/spring" auth="Container" type="javax.sql.DataSource"
                maxActive="100" maxIdle="30" maxWait="10000"
                username="root" password="Warszawa5584" driverClassName="com.mysql.jdbc.Driver"
